@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Hero Header with Gradient Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8E44AD,100:9B59B6&height=200&section=header&text=ASITHA%20MD%20V5&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=55&descSize=22" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8E44AD,100:9B59B6&height=200&section=header&text=ASITHA%20MD%20V6&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=55&descSize=22" />
 
 <!-- Brand Logo -->
 <a href="https://asitha.top">
-  <img src="https://i.ibb.co/TBKZXRDF/2ed696a3-1e79-4b7f-8458-53a270cf43cd.jpg" alt="Brand Logo" border="2">
+  <img src="https://dbv5.pages.dev/IMG-20251212-WA0148(1).jpg" alt="Brand Logo" border="2">
 </a>
 
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+ASITHA+MD+V5;⚡+Fast+Fast+Performance;✨+World's+Best+WhatsApp+Bot;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+ASITHA+MD+V6;⚡+Fast+Fast+Performance;✨+World's+Best+WhatsApp+Bot;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
 </p>
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v5.0.0-4169E1?style=for-the-badge&logo=semver&logoColor=white">
+  <img src="https://img.shields.io/badge/Version-v6.0.0-4169E1?style=for-the-badge&logo=semver&logoColor=white">
   <img src="https://img.shields.io/badge/License-MIT-2ECC71?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Status-Active-FFD700?style=for-the-badge&logo=statuspage&logoColor=black">
@@ -78,7 +78,7 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8E44AD,100:9B59B6&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Best+Whatsapp+Bot+❤️&descAlignY=88&descSize=14" />
-  <p><b>© 2025 ASITHA-MD V5 | Made with 💝 by MR ASITHA & Ayooh_XD</b></p>
+  <p><b>© 2025 ASITHA-MD V6 | Made with 💝 by MR ASITHA & Ayooh_XD</b></p>
 </div>
 
 </div>
